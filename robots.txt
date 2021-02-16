@@ -1,0 +1,5 @@
+# Group 1
+User-agent: *
+Allow: /
+
+Sitemap: https://jeanlouisdossantos.github.io/Jeanlouisdossantos_4_01022021/sitemap.xml
